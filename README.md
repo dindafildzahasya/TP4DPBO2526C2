@@ -1,5 +1,10 @@
 # People Data – Data Anggota Perpustakaan
 
+
+## Janji
+
+Saya Adinda Fildzah Hasya dengan NIM 2501218 mengerjakan Tugas Praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 ## 1. Deskripsi Program
 
 People Data merupakan aplikasi berbasis Java Swing yang digunakan untuk mengelola data anggota perpustakaan. Aplikasi ini dirancang dengan antarmuka grafis (*Graphical User Interface* atau GUI) agar pengguna dapat mengelola data anggota dengan mudah.
